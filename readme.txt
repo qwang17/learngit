@@ -7,3 +7,4 @@ Test push to origin HEAD.
 Creating a new branch is quick AND simple.
 Learn branch without ff.
 Learn stash.
+Push dev branch.
