@@ -5,3 +5,4 @@ Git tracked changes.
 Push to repo.
 Test push to origin HEAD.
 Creating a new branch is quick AND simple.
+Learn branch without ff.
