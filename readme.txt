@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracked changes.
 Push to repo.
 Test push to origin HEAD.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
